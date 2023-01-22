@@ -1,0 +1,31 @@
+body {
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+    font-size: 23px;
+    width: 100%;
+    line-height: 2 ;
+    margin-top: 0;
+   
+}
+#start , #status,#result{
+    font-size: 20px;
+}
+.copy_right_footer{
+    position:fixed;
+    text-align: center;
+    background-color:coral;
+    color: aliceblue;
+    line-height: 1;
+    width: 100%;
+    bottom:0;
+}
+canvas{
+    border: 5px;
+    border-radius: 3px;
+    border-color: antiquewhite;
+    margin-top: 150px;
+    box-shadow:-5px -8px 15px black ;
+    
+}
